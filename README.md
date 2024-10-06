@@ -3,13 +3,14 @@
 # Table of Contents
 -	Overview
 -	Features
+-	Future Features
 -	Data
 -	Usage
 -	Acknowledgments
 
 # Overview
 
--	This model processes both time-series and frequency-series data using a convolutional neural network.
+-	This model processes both time-series and frequency-series data using a convolutional neural network - LSTM.
 -	It utilizes the Space Apps 2024 Seismic Detection Data Packet for training.
 -	This model is used to filter the data for seismic events so as to reduce quantity of data to be sent to Earth.
 -	This project uses TensorFlow for building and training the model; and Pandas, Sklearn and Scipy for data preprocessing.
@@ -17,6 +18,10 @@
 # Features
 
 -	Flagging earthquakes events: This model filters through the data and flags the appropriate peaks as earthquake events.
+
+# Future Features
+
+- Data compression algorithm.
 
 # Usage
 
