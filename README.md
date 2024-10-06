@@ -23,17 +23,17 @@
 # Usage
 
 -	Training the model:
-  o	The model is trained using the Autoencoded_CNN.ipynb script.
-  o	Dataset files are queued using a Kernel driver.
-  o	Checkpoints are saved
+  -	The model is trained using the Autoencoded_CNN.ipynb script.
+  -	Dataset files are queued using a Kernel driver.
+  -	Checkpoints are saved
 -	Evaluating the model
-  o	.
+  -	.
 -	Flagging
-  o	Use the model to distinguish earthquake events from noise.
+  -	Use the model to distinguish earthquake events from noise.
 -	Data compression
-  o	Compresses data before sending it to minimize energy usage during transfer.
+  -	Compresses data before sending it to minimize energy usage during transfer.
 -	Hash tables
-  o	Uses hash tables to ensure data integrity.
+  -	Uses hash tables to ensure data integrity.
 
 # Acknowledgements
 
