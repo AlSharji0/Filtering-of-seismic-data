@@ -1,12 +1,18 @@
 # Filtering-of-seismic-data
 
 # Table of Contents
+- Presentation
 -	Overview
 -	Features
 -	Future Features
 -	Data
 -	Usage
 -	Acknowledgments
+
+# Presentation
+
+Google Drive with powerpoint:
+https://docs.google.com/presentation/d/1KQLxOyJ9tyEQlOTg9fsVNGG-N88_qxhY/edit?usp=sharing&ouid=100257406178980417502&rtpof=true&sd=true
 
 # Overview
 
